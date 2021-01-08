@@ -22,7 +22,8 @@
 	"extensions": [
 		"ms-vscode.cpptools",
 		"asabil.meson",
-		"davidschuldenfrei.gtest-adapter"
+		"davidschuldenfrei.gtest-adapter",
+		"tht13.html-preview-vscode",
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
