@@ -1,3 +1,5 @@
+![CI](https://github.com/feabhas/tddcpp-exercise-2/workflows/CI/badge.svg)
+
 # To build and Run
 
 From project root:
