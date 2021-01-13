@@ -24,6 +24,7 @@
 		"asabil.meson",
 		"davidschuldenfrei.gtest-adapter",
 		"tht13.html-preview-vscode",
+		"mebrahtom.plantumlpreviewer",
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
